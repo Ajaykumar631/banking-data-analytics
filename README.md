@@ -96,12 +96,3 @@ This project analyzes **65,000+ loan records** and **₹255M+ debit/credit trans
 
 ---
 
-## 👤 Authors
-Group Project - **P924 Group 2**  
-- Nandiboyana Ajaykumar
-- Neha Kumari
-- Dileep Kumar Chitrakara
-- Naveen N
-- Elluri Imran
-- Priyanka C
-
