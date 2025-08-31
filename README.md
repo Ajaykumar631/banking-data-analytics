@@ -1,4 +1,3 @@
-✅ Final README.md (Copy-Paste Ready)
 # 📊 Banking Loan & Transaction Analytics Project
 
 ## 📌 Project Overview
@@ -114,11 +113,3 @@ Improved team collaboration and storytelling with data
 
 ---
 
-### 📌 Next Steps
-- ✅ Replace the dashboard image link `![Excel Dashboard](Banking_Loan_dashboard.jpg)` with the **actual file name and path** if different.
-- ✅ Make sure image files like `.jpg` are in the repo if you want them visible on GitHub.
-- ✅ Replace the clone URL with your actual repo URL if you're making this public.
-
----
-
-Would you like me to help you auto-generate badges (e.g. tools used, last updated, etc.) or add a license secti
