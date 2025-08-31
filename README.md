@@ -64,11 +64,15 @@ This project analyzes **65,000+ loan records** and **₹255M+ debit/credit trans
 ---
 
 ## 🖼️ Preview
-
-### 📊 Dashboard
+### 🟢 Excel Dashboard  
 ![Excel Dashboard](Banking_Loan_Excel_dashboard.jpg)
-![Power BI Dashboard](powerbi_dashboard.jpg.jpg)
-![Tableau Dashboard](tableau_dashboard.jpg.jpg)
+
+### 🟡 Power BI Dashboard  
+![Power BI Dashboard](Dashboards.JPG/PowerBI_Dashboard.jpg)
+
+### 🔵 Tableau Dashboard  
+![Tableau Dashboard](Dashboards.JPG/Tableau_Dashboard.jpg)
+
 
 
 ---
