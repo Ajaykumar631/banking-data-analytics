@@ -109,14 +109,14 @@ Explore dashboards in /dashboards (Excel, Power BI, Tableau)
 
 Run SQL queries in /SQL for analysis
 
-📌 Project Summary
+## 📌 Project Summary
 
 ✔ Analyzed 65K+ loan records and ₹255M+ transactions
 ✔ Built interactive dashboards using Excel, Power BI, and Tableau
 ✔ Used SQL stored procedures for advanced aggregations
 ✔ Identified trends in loan defaults, repayment patterns, and spending habits
 
-🎯 Key Learnings
+## 🎯 Key Learnings
 
 Data cleaning, transformation, and visualization of multi-source datasets
 
